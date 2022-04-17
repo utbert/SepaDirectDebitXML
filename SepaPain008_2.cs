@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace OrganizeUTE.SEPA.Pain_008
+namespace SEPA.Pain_008
 {
 
     [XmlRoot(ElementName = "InitgPty")]
